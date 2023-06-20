@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdnurhaziq
 - 👀 I’m interested in software testing and understanding code behaviours
-- 🌱 I’m currently learning software quality assurance and testing
+- 🌱 I’m currently learning software quality assurance and testing under the SFA FTP
 - 📫 How to reach me: mdnurhaziq.k@gmail.com
 
 <!---
